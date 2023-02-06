@@ -5,71 +5,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "Active from"
+msgstr "Gweithredol o"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Also known as"
+msgstr "A elwir yn hefyd"
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Sêr Glas"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Pori"
 
 msgid "CONTACT"
-msgstr "Contact"
+msgstr "Cyswllt"
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "Creu ar"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "Crewyr"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Credydau"
 
 msgid "DURATION"
-msgstr "Duration"
+msgstr "Hyd"
 
 msgid "DURATION_FORMAT"
-msgstr "%s seconds"
+msgstr "%s eiliadau"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Dan sylw"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Fflipnodau dan Sylw"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Casgliad enwog Fflipnodau, curadu gan'n tîm."
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Fflipnodau"
 
 msgid "FLIPNOTE_ARCHIVE"
-msgstr "Flipnote Archive"
+msgstr "Archif y Fflipnote"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Archive Credits"
+msgstr "Credydau Archif Fflipnote"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Fflipnote gan %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Possible duplicate of another Flipnote."
+msgstr "Gallai fod dyblyg o Fflipnote arall."
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Fflipnote Stiwdio ID"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
-msgstr "This Flipnote is withheld due to privacy concerns."
+msgstr "Mae'r Fflipnote yn dal yn ôl achos o pryderon preifatrwydd."
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "For more information, please read our %sFAQ%s."
+msgstr "Am mwy wybodaeth, darllenwch'n %sFAQ%s os gwelwch yn dda."
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
+msgstr "Mae'r wefan hon yn ddrud i rheoli, felly ystyried gwneud %srhodd%s os gwelwch yn dda!"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
 msgstr "Hosted by %sSudomemo%s, a fan-run Flipnote sharing service for Flipnote Studio on the Nintendo DSi and 3DS"
